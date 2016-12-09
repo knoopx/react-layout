@@ -1,0 +1,16 @@
+{
+  "name": "react-layout",
+  "version": "1.0.0",
+  "description": "DRY components for easier flex layouting",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knoopx/react-layout.git"
+  },
+  "author": "Víctor Martínez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knoopx/react-layout/issues"
+  },
+  "homepage": "https://github.com/knoopx/react-layout#readme"
+}
